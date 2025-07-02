@@ -9,7 +9,6 @@ require_once('header.php');
             Intro Section
         ============================-->
 
-
     <div id="carouselExampleControls" class="carousel" data-ride="carousel">
         
         <div class="carousel-inner">
@@ -18,7 +17,7 @@ require_once('header.php');
                     <div class="intro-container wow fadeIn">
                         <h1>V MARAPET</h1>
 
-                        <h2 style="color: white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, pariatur enim. Molestias consequatur velit magnam distinctio dolorum placeat, ea beatae pariatur, reiciendis quis ipsa quasi expedita exercitationem quos eum provident.</h2>
+                        <!-- <h2 style="color: white;">Temática</h2> -->
                         
                         <a href="#about-event" class="about-btn text-decoration-none">
                           <b>Sobre o evento</b>
@@ -39,7 +38,7 @@ require_once('header.php');
                     <div class="col-lg-12">
                         <h2>Temática</h2>
                         <p>
-                          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates similique quam eaque id qui eius saepe exercitationem rerum dolorum architecto repellat non quibusdam, rem dolor! Sapiente fuga rem delectus distinctio?
+                          Em breve...
                         </p>
                     </div>
                 </center>
@@ -60,7 +59,7 @@ require_once('header.php');
           <div class="col-lg-12">
             <h2 class="black">Objetivo</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque sed, sunt et quia quasi quo eligendi obcaecati mollitia officia voluptatem velit a impedit soluta hic ipsam beatae quas, numquam placeat.
+              O MARAPET é um evento acadêmico vinculado e organizado pelos Grupos PET do estado do Maranhão, que tem por objetivo promover uma maior interação entre os grupos PET existentes no referido estado. 
             </p>
           </div>
         </div>
@@ -71,14 +70,21 @@ require_once('header.php');
           <div class="col-lg-12">
             <h2 class="black">Histórico ou Destaques do Evento</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aliquam quos doloribus corrupti sunt omnis cumque, reprehenderit distinctio eum consectetur sapiente veritatis minima quam, neque laudantium quibusdam quidem similique saepe.
+              A primeira edição, realizada na UFMA, em 2014, contou com a participação de aproximadamente 250 petianos, além da maciça presença da comunidade acadêmica.
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta voluptates explicabo perferendis, facilis autem aperiam est officiis dolores corporis vel magni laborum doloribus modi odio error dignissimos fuga culpa assumenda.
+              O “Ensino, pesquisa e extensão: dilemas e possibilidades da educação pública no Maranhão” foi o tema da segunda edição do MARAPET, que aconteceu de 05 a 07 de outubro de 2016, no Centro Pedagógico Paulo Freire, na Cidade Universitária Dom Delgado. O evento propos reunir os grupos PET do Maranhão e dar visibilidade ao programa no Estado. Na segunda edição, o principal objetivo era discutir os dilemas da educação pública superior no Maranhão e as possíveis soluções por meio das práticas de ensino, pesquisa e extensão na perspectiva do Programa de Educação Tutorial PET.
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae consequatur doloribus ipsa! Quam eum quo numquam, ut nesciunt, consequuntur ratione, esse ex harum optio laboriosam aut modi exercitationem veniam aliquam.
+              No III Encontro Maranhense dos Grupos de Programa de Educação Tutorial - MARAPET. A edição veio com uma novidade especial: foi aberto a todos os acadêmicos, das Universidades Federal, Estadual e Faculdades Particulares de Imperatriz e Região. O evento contou com Apresentação de Trabalhos na forma (Oral/Pôster); Oficinas; Mesas Redondas; Mini-Cursos; Palestras e Certificados. O III MARAPET foi realizado nos dias 16, 17 e 18 de Novembro de 2017, na Universidade Federal do Maranhão, Campus Imperatriz.
             </p>
+            <p>
+              Na IV edição do Encontro Maranhense dos Grupos de Educação Tutorial (Marapet), realizado entre os dias 20 e 22 de março de 2019, tinha como tema “Educação, inclusão e inovação: desafios contemporâneos para o ensino superior no Maranhão”.
+            </p>
+            <p>
+              A programação foi constituída de mesa de discussão sobre o tema principal do evento.  Oficinas “Como Preencher o Currículo Lattes”; “Tecnologia Ambientalmente Saudável e de Baixo Custo (Produção de Tinta de Terra)”; “Culinária Vegana para Iniciantes”, “Metodologias para o Gerenciamento de Projetos”, “Introdução ao Balé Clássico: História, Nomenclaturas e Sequência Coreográficas”, “Técnicas Circenses — Aéreo”; “Fotografia” e “Massoterapia”, também estavam inseridas no evento, apresentações de curtas e documentários como: “Ciclovida”, “Veganismo — Além do prato”; “Absorvendo o Tabu”; “Maio de 68: o início dos movimentos universitários”, “Ovelha negra”, “Se essa rua fosse minha” e “Preto no branco”.
+            </p>
+
           </div>
         </div>
       </div>
@@ -100,7 +106,7 @@ require_once('header.php');
             </div>
 
             <div class="section-header">
-                <h2 class="color: black">PATROCÍNIO</h2>
+                <h2 class="color: black" style="margin-top: 20px;">PATROCÍNIO</h2>
             </div>
             <div class="patrocinio-container">
             <div class="supporter-logo3">

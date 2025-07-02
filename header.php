@@ -6,13 +6,12 @@
         </div>
 
         <div class="main-text">
-            <h1>V MARAPET</h1>
+            <h1 class="title-header">V MARAPET</h1>
 
-            <h1></h1>
 
-            <p id="text-paragraph">
+            <!-- <p id="text-paragraph">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores eaque consectetur, eos repellat in ipsam perferendis quisquam beatae excepturi consequuntur voluptate ab repudiandae nisi, fugit accusantium sunt, voluptatibus laboriosam ratione.
-            </p>
+            </p> -->
         </div>
         
         <div>
