@@ -21,7 +21,6 @@
     
 <div class="content">
   <h1>EDITAL</h1>
-  <p>CHAMADA PARA SELEÇÃO DE MONITORES</p>
 
   <p class="centered">Para fazer sua inscrição no evento, <a href="#"  target="_blank">clique aqui</a>.</p>
 
