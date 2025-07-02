@@ -12,7 +12,7 @@
     <meta name="google-site-verification" content="Vq1j2NBJRrVdJnbfpVGku9UCJFm-OD1rTIO7XZ7i7Rs" />
 
     <!-- Favicons -->
-    <link rel="icon" type="image/svg+xml" href="img/logo-marapet.svg">
+    <link rel="icon" type="image/svg+xml" href="img/logo-icon.svg">
 
     <!-- Google Fonts -->
     <link
