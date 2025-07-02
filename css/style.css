@@ -13,6 +13,7 @@
   pointer-events: none;
   opacity: 0.5;
 }
+
 /*Banner*/
 
 .banner {
@@ -194,6 +195,7 @@ h6 {
   padding: 0;
   color: #000000fd;
 }
+
 .main-page {
   margin-top: 70px;
 }
@@ -993,6 +995,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     opacity: 0;
   }
 }
+
 /*--------------------------------------------------------------
 # Banner Section
 --------------------------------------------------------------*/
@@ -1084,6 +1087,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: var(--bs-body-font-family);
   font-size: 16px; /* Ajuste o tamanho conforme necessário */
 }
+
 .supporter-logo2 {
   padding: 30px;
   display: -webkit-box;
@@ -1103,11 +1107,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 10rem;
   margin: 0 auto;
 }
+
 #supporters .supporter-logo2:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
-
 
 #supporters img {
   transition: all 0.4s ease-in-out;
@@ -1116,6 +1120,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .black {
   color: black;
 }
+
 .supporter-logo3 {
   padding: 30px;
   display: flex;
@@ -1143,6 +1148,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   object-fit: contain; /* Faz a imagem se ajustar ao tamanho da caixa sem distorção */
   margin: 0 1rem; 
 }
+
 .patrocinio-container {
   display: flex;
   padding: 10px; /* Espaço entre a imagem e a borda */
@@ -1261,6 +1267,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   background: red;
 }
+
 /*--------------------------------------------------------------
 # Schedule Section
 --------------------------------------------------------------*/
