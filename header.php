@@ -33,7 +33,7 @@
                             <!-- <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="monitoria.php">Monitoria</a> -->
 
-                            <div class="dropdown-divider"></div>
+                            <!-- <div class="dropdown-divider"></div> -->
                             <a class="dropdown-item" href="submissao.php">Submissão de Trabalhos</a>
                             
                             <div class="dropdown-divider"></div>
@@ -63,7 +63,7 @@
                         <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
                             role="button" aria-haspopup="true" aria-expanded="false">Publicações</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <div class="dropdown-divider"></div>
+                            <!-- <div class="dropdown-divider"></div> -->
                             <a class="dropdown-item" href="anais.php">Anais</a>
                             
                             <div class="dropdown-divider"></div>
@@ -87,6 +87,6 @@
 
                 </ul>
             </nav>
-            <!-- #nav-menu-container -->
+            
         </div>
     </header>

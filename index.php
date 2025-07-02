@@ -10,11 +10,7 @@ require_once('header.php');
 
 
     <div id="carouselExampleControls" class="carousel" data-ride="carousel">
-        <!-- <ol class="carousel-indicators">
-            <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
-            <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
-            <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
-        </ol> -->
+        
         <div class="carousel-inner">
             <div id="intro" class="carousel-item active">
                 <div class="slider-banner">
@@ -29,14 +25,6 @@ require_once('header.php');
                     </div>
                 </div>
             </div>
-            <!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="false"></span>
-                <span class="visually-hidden"></span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="false"></span>
-                <span class="visually-hidden"></span>
-            </a> -->
         </div>
     </div>
 
@@ -100,7 +88,7 @@ require_once('header.php');
             Organização
         ======================-->
     <section id="supporters" class="wow fadeInUp section-with-bg">
-    <div class="container ">
+        <div class="container ">
             <div class="section-header">
                 <h2 class="color: black">REALIZAÇÃO</h2>
             </div>
@@ -115,32 +103,14 @@ require_once('header.php');
             </div>
             <div class="patrocinio-container">
             <div class="supporter-logo3">
-              <a href="https://www.fapema.br/" target="_blank">
-                <img src="img/supporters/logo_fapema.png" class="img-fluid" alt="">
+              <a href="https://www.gov.br/mec/pt-br" target="_blank">
+                <img src="img/supporters/MEC.png" class="img-fluid" alt="">
               </a>
-              <a href="https://portalpadrao.ufma.br/ageufma" target="_blank">
-                <img src="img/supporters/logo_ageufma.png" class="img-fluid" alt="">
+              <a href="https://www.gov.br/fnde/pt-br" target="_blank">
+                <img src="img/supporters/fnde.png" class="img-fluid" alt="">
               </a>
             </div>
             </div>
-
-        <div class="container ">
-            <div class="section-header">
-                <h2 class="color: black">APOIO</h2>
-            </div>
-
-
-
-            
-                            <div class="row no-gutters supporters-wrap clearfix">
-
-                <div class="col-lg-5 col-md-6 col-xs-14">
-                <div class="supporter-logo">
-                    <a href="https://www.gov.br/capes/pt-br" target="_blank">
-                    <img src="img/supporters/logo_capes.png" class="img-fluid" alt="">
-                    </a>
-                </div>
-        </div>
     </section>
 
 </main>
