@@ -69,7 +69,7 @@
   text-align: center; 
   margin: 10px 0; 
   font-size: 35px;
-  font-family: Montserrat;
+  /* font-family: Montserrat; */
   font-weight: bold;
   color: #1b100a;
 }
@@ -655,7 +655,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro-2 {
   width: 100%;
   height: 100vh;
-  background: url(../img/imagem_fundo_sobre2.jpg) top center;
+  background: url(../img/banner.svg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -2109,7 +2109,7 @@ td, th {
   }
 
   #intro{
-    background-image: url(../img/image_intro_mobile.png);
+    background-image: url(../img/banner.svg);
   }
 
   #intro h1 {

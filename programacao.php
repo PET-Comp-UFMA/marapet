@@ -30,7 +30,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -49,7 +49,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -81,7 +81,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -114,7 +114,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -129,7 +129,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -146,7 +146,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -163,7 +163,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -189,7 +189,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -220,7 +220,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -236,7 +236,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -261,7 +261,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -280,7 +280,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -302,7 +302,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -321,7 +321,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo-marapet.svg" alt="">
+                            <img src="img/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
