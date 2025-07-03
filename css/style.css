@@ -230,6 +230,10 @@ h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+  z-index: 9999;
   transition: background 0.5s ease-in-out;
 }
 
@@ -1104,6 +1108,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
   width: 30rem;
+  max-width: 100%;
   height: 10rem;
   margin: 0 auto;
 }
@@ -2149,6 +2154,10 @@ td, th {
 }
 
 @media (max-width: 767px) {
+  #intro{
+    background-image: url(../img/banner-menor.svg);
+  }
+
   #schedule .nav-tabs a {
     padding: 8px 50px;
   }
