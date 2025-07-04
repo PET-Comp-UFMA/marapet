@@ -8,10 +8,9 @@
         <div class="main-text">
             <h1 class="title-header">V MARAPET</h1>
 
-
-            <!-- <p id="text-paragraph">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores eaque consectetur, eos repellat in ipsam perferendis quisquam beatae excepturi consequuntur voluptate ab repudiandae nisi, fugit accusantium sunt, voluptatibus laboriosam ratione.
-            </p> -->
+            <p id="text-paragraph">
+                5º Edição do Encontro Maranhense dos Grupos PET em São Luís no Maranhão
+            </p>
         </div>
         
         <div>
