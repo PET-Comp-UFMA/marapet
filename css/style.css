@@ -1107,10 +1107,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
-  width: 30rem;
+  width: 17rem;
   max-width: 100%;
-  height: 10rem;
+  height: auto;
   margin: 0 auto;
+}
+.supporter-logo2 img {
+  max-height: 50%;
+  object-fit: contain;
+  display: block;
 }
 
 #supporters .supporter-logo2:hover img {

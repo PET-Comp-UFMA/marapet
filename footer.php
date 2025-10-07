@@ -17,7 +17,7 @@
 
             <div class="social-links">
 
-                <a href="https://www.instagram.com/petcompufma/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
+                <a href="https://www.instagram.com/marapet.v?igsh=MW9qbTl3b3M5dnA1bg==" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
                 <!-- <a href="#" target="_blank" class="instagram"><i class="fa fa-youtube"></i></a> -->
 
             </div>

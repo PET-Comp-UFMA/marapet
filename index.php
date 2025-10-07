@@ -38,7 +38,7 @@ require_once('header.php');
                     <div class="col-lg-12">
                         <h2>Temática</h2>
                         <p>
-                          Em breve...
+                          PET Maranhão: Ciência que se faz terra, gente e cultura.
                         </p>
                     </div>
                 </center>
@@ -101,7 +101,7 @@ require_once('header.php');
             </div>
             <div class="supporter-logo2">
               <a href="#" target="_blank">
-                <img src="img/supporters/logo_ppgst.png" class="img-fluid" alt="">
+                <img src="img/supporters/logo-ufma2.png" class="img-fluid" alt="">
               </a>
             </div>
 
