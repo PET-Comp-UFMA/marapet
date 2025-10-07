@@ -34,7 +34,7 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>Credenciamento</h4>
+                        <h4>CREDENCIAMENTO</h4>
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
                     
@@ -44,7 +44,7 @@ require_once('header.php');
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            10:00 - 11:00
+                            10:15 - 10:50
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -125,7 +125,7 @@ require_once('header.php');
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>15:00-16:00</time>
+                        <time>15:10-16:00</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -157,22 +157,6 @@ require_once('header.php');
                     
                 </div>
 
-                <div class="row schedule-item">
-                    <div class="col-md-2 center-content"><br>
-                        <time>17:00-18:00</time>
-                    </div>
-                    <div class="col-md-3 center-content">
-                        <div class="speaker">
-                            <img src="img/logo-semfundo.svg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-md-7">
-                        <h4>ENCERRAMENTO</h4>
-                        
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
-                    </div>
-                    
-                </div>
                 
 
                 <!-- Dia 02 -->
@@ -184,7 +168,7 @@ require_once('header.php');
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            09:00 - 12:00
+                            09:00 - 10:00
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -193,7 +177,7 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>GDTs</h4>
+                        <h4>APRESENTAÇÃO DE PROJETOS</h4>
                         <!-- <p style="font-size: 20px;">
                             <b>
                                 Emprego de Multimétodos no desenvolvimento de aplicativos para a área da saúde
@@ -210,13 +194,30 @@ require_once('header.php');
                     </div>
                 </div>
 
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>10:00-12:00</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo-semfundo.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>GDTs</h4>
+                        
+                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                    </div>
+                    
+                </div>
+
                 
                 <!-- TARDE -->
                 <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>14:00-17:00</time>
+                        <time>14:00-15:00</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -224,15 +225,14 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS</h4>
+                        <h4>GDT</h4>
                         <!-- <p style="font-size: 20px;">Eixo 2 - Tecnologias em Saúde</p> -->
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
                 </div>
-
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>17:00-18:00</time>
+                        <time>15:00-17:00</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -240,10 +240,11 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>ENCERRAMENTO</h4>
-                        <!-- <p style="font-size: 20px;">Eixo 2 - Tecnologias em Saúde</p> -->
+                        <h4>MINICURSO</h4>
+                        
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
+                    
                 </div>
                 
 
@@ -256,7 +257,7 @@ require_once('header.php');
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            09:00 - 10:30
+                            09:00 - 10:00
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -265,7 +266,8 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>PALESTRA I</h4>
+                        <h4>PALESTRA: Cultura e memória: ex-petianos como pontes entre a 
+universidade e territórios</h4>
                         
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
@@ -284,7 +286,8 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>PALESTRA II</h4>
+                        <h4>PALESTRA: Formação integral no PET: aprendizados que florescem 
+no coletivo</h4>
                         
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>

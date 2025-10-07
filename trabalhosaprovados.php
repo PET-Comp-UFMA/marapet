@@ -15,12 +15,12 @@
   require_once('header.php');
 ?>
 <div class="section-header">
-<h1 id="centered">TRABALHOS APROVADOS</h1>
+<h1 id="centered">PROJETOS APROVADOS</h1>
             </div>
 
 <div class="content">
 
-  <p>Trabalhos aprovados em breve </p>
+  <p>Projetos aprovados em breve </p>
   
 </div>
 

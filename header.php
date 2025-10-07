@@ -32,10 +32,10 @@
                             <a class="dropdown-item" href="monitoria.php">Monitoria</a> -->
 
                             <!-- <div class="dropdown-divider"></div> -->
-                            <a class="dropdown-item" href="submissao.php">Submissão de Trabalhos</a>
+                            <a class="dropdown-item" href="submissao.php">Submissão de Projetos</a>
                             
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="trabalhosaprovados.php">Trabalhos Aprovados</a>
+                            <a class="dropdown-item" href="trabalhosaprovados.php">Projetos Aprovados</a>
                         </div>
                     </li>
                     <li><a href="inscricoes.php">Inscrições</a></li>

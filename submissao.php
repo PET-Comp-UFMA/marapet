@@ -16,11 +16,11 @@
 ?>
 
 <div class="section-header">
-<h1 id="centered">TRABALHOS</h1>
+<h1 id="centered">Projetos</h1>
             </div>
 
 <div class="content">
-  <p>Submissão de trabalhos em breve</p>
+  <p>Submissão de projetos em breve</p>
 </div>
 
 <?php 
