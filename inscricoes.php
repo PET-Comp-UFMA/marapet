@@ -16,13 +16,12 @@
 <div class="content">
   <h1>EDITAL</h1>
 
-  <p class="centered">Para fazer sua inscrição no evento, <a href="#"  target="_blank">clique aqui</a>.</p>
+  <p class="centered">Para fazer sua inscrição no evento, <a href="https://www.even3.com.br/5-encontro-maranhense-dos-grupos-de-educacao-tutorial-638637"  target="_blank">clique aqui</a>.</p>
 
   <h3 class="centered">PERÍODO DE INSCRIÇÃO</h3>
   <ul class="centered">
-    <li><strong>Abertura das inscrições:</strong> XX/YY/2025</li>
-    <li><strong>Abertura das submissões:</strong> XX/YY/2025</li>
-    <li><strong>Encerramento das submissões:</strong> XX/YY/2025</li>
+    <li><strong>Abertura das inscrições:</strong> 10/10/2025</li>
+    <li><strong>Encerramento das inscrições:</strong> 10/11/2025</li>
   </ul>
 
   <!-- <h3 class="centered">VALORES DE INSCRIÇÃO</h3>
