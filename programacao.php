@@ -25,26 +25,7 @@ require_once('header.php');
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            08:00 - 10:00
-                        </time>
-                    </div>
-                    <div class="col-md-3 center-content">
-                        <div class="speaker">
-                            <img src="img/logo-semfundo.svg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-md-7">
-                        <h4>CREDENCIAMENTO</h4>
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
-                    </div>
-                    
-                </div>
-
-                <div class="row schedule-item">
-                    <div class="col-md-2 center-content" style="text-align: center;">
-                        <br>
-                        <time>
-                            10:15 - 10:50
+                            10:00 - 11:00
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -54,29 +35,16 @@ require_once('header.php');
                     </div>
                     <div class="col-md-7">
                         <h4>MESA DE ABERTURA</h4>
-                        <!-- <p style="font-size: 20px;">
-                            <b>
-                                Geotecnologias aplicadas à detecção de doenças e agravos transmissíveis
-                            </b>
-                        </p>
-                        <p style="font-size: 16px;">
-                            Palestrantes: Prof. Dr. José Aquino Junior
-                            <br>
-                            Doutor em Geografia - Docente - UFMA e
-                            <br>
-                            Prof. Dr. Ricardo Alexandre Arcêncio
-                            <br>
-                            Doutor em Ciências - Docente - EERP/USP
-                        </p> -->
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
+                    
                 </div>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            11:00 - 12:00
+                            11:00 - 12:30
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -105,6 +73,7 @@ require_once('header.php');
                 </div>
 
 
+
                 <!-- TARDE -->
                 <h4 class="schedule-day-title">Tarde</h4>
 
@@ -118,7 +87,7 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>MOMENTO CULTURAL</h4>
+                        <h4>ENCONTRO DISCENTES / TUTORES</h4>
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
                 </div>
@@ -133,7 +102,7 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>ENCONTRO DISCENTES / TUTORES</h4>
+                        <h4>MINICURSO</h4>
                         <!-- <p style="font-size: 20px;">Eixo 1 - Saúde e Sociedade</p> -->
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
@@ -142,7 +111,7 @@ require_once('header.php');
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>16:00-17:00</time>
+                        <time>17:30-18:30</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -150,7 +119,7 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>MINICURSO</h4>
+                        <h4>MOMENTO CULTURAL</h4>
                         <!-- <p style="font-size: 20px;">Eixo 1 - Saúde e Sociedade</p> -->
                         <p style="font-size: 16px;">Modalidade: Presencial</p>
                     </div>
