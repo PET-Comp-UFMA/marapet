@@ -1915,6 +1915,11 @@ td, th {
   margin-bottom: 15px;
 }
 
+#email a{
+  color: inherit;
+  text-decoration: none;
+}
+
 #footer .footer-top .footer-info p {
   font-size: 14px;
   line-height: 24px;

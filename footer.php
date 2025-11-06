@@ -8,7 +8,7 @@
 
             <div id="email">
 
-                <strong>E-mail:</strong> petcomputacao.ufma@gmail.com
+                <strong>E-mail:</strong> <a href="mailto:marapet@ufma.br">marapet@ufma.br</a>
 
             </div>
             <a href="#" class="back-to-top" style="display: inline;">
