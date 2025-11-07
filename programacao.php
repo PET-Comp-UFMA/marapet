@@ -35,7 +35,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-7">
                         <h4>MESA DE ABERTURA</h4>
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                     
                 </div>
@@ -68,7 +68,7 @@ require_once('header.php');
                             <br>
                             Doutor em Ciências - Docente - EERP/USP
                         </p> -->
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
 
@@ -88,7 +88,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-7">
                         <h4>ENCONTRO DISCENTES / TUTORES</h4>
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
 
@@ -104,7 +104,8 @@ require_once('header.php');
                     <div class="col-md-7">
                         <h4>MINICURSO</h4>
                         <!-- <p style="font-size: 20px;">Eixo 1 - Saúde e Sociedade</p> -->
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório 1, CCET</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                     
                 </div>
@@ -121,7 +122,7 @@ require_once('header.php');
                     <div class="col-md-7">
                         <h4>MOMENTO CULTURAL</h4>
                         <!-- <p style="font-size: 20px;">Eixo 1 - Saúde e Sociedade</p> -->
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Àgora do CCH</p>
                     </div>
                     
                 </div>
@@ -159,7 +160,7 @@ require_once('header.php');
                             <br>
                             Doutoranda em Enfermagem e Biociências - UNIRIO
                         </p> -->
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
 
@@ -175,7 +176,7 @@ require_once('header.php');
                     <div class="col-md-7">
                         <h4>GDTs</h4>
                         
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                     
                 </div>
@@ -196,7 +197,7 @@ require_once('header.php');
                     <div class="col-md-7">
                         <h4>GDT</h4>
                         <!-- <p style="font-size: 20px;">Eixo 2 - Tecnologias em Saúde</p> -->
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
                 <div class="row schedule-item">
@@ -211,7 +212,8 @@ require_once('header.php');
                     <div class="col-md-7">
                         <h4>MINICURSO</h4>
                         
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório 1, CCET</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                     
                 </div>
@@ -238,7 +240,7 @@ require_once('header.php');
                         <h4>PALESTRA: Cultura e memória: ex-petianos como pontes entre a 
 universidade e territórios</h4>
                         
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                       <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
 
@@ -258,7 +260,7 @@ universidade e territórios</h4>
                         <h4>PALESTRA: Formação integral no PET: aprendizados que florescem 
 no coletivo</h4>
                         
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
                 
@@ -280,7 +282,7 @@ no coletivo</h4>
                     <div class="col-md-7">
                         <h4>ASSEMBLEIA</h4>
                         
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
 
@@ -298,7 +300,8 @@ no coletivo</h4>
                     </div>
                     <div class="col-md-7">
                         <h4>ENCERRAMENTO</h4>
-                        <p style="font-size: 16px;">Modalidade: Presencial</p>
+                        <p style="font-size: 16px;">Local: Auditório 1, CCET</p>
+                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
 
