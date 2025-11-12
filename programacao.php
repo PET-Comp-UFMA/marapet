@@ -300,7 +300,6 @@ no coletivo</h4>
                     </div>
                     <div class="col-md-7">
                         <h4>ENCERRAMENTO</h4>
-                        <p style="font-size: 16px;">Local: Auditório 1, CCET</p>
                         <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
