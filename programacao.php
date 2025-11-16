@@ -202,7 +202,7 @@ require_once('header.php');
                 </div>
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>15:00-17:00</time>
+                        <time>15:00-17:30</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
