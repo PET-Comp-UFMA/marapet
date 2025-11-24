@@ -237,8 +237,8 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>PALESTRA: Cultura e memória: ex-petianos como pontes entre a 
-universidade e territórios</h4>
+                        <h4>PALESTRA: Formação integral no PET: aprendizados que florescem 
+no coletivo</h4>
                         
                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
@@ -257,8 +257,8 @@ universidade e territórios</h4>
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>PALESTRA: Formação integral no PET: aprendizados que florescem 
-no coletivo</h4>
+                        <h4>PALESTRA: Cultura e memória: ex-petianos como pontes entre a 
+universidade e territórios</h4>
                         
                         <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
