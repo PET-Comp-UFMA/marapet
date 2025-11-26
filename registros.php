@@ -93,13 +93,15 @@
                     <img class="container-registros" src="img/registros/dia3/dia3 (4).jpg" alt="">
                 </div>
             </div>
+
+     
         
         </div>
         <button type="button" class="swiper-button-next"></button>
         <button type="button" class="swiper-button-prev"></button>
         <div class="swiper-pagination"></div>
     </div>
-
+    <br>
 
 <?php 
     require_once('footer.php');
