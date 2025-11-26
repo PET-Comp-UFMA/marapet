@@ -71,6 +71,8 @@
 
                     <li><a href="local.php">Local</a></li>
 
+                    <li><a href="registros.php">Registros</a></li>
+
                     <!-- <li class="dropdown">
                         <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
                             role="button" aria-haspopup="true" aria-expanded="false">Informações</a>
