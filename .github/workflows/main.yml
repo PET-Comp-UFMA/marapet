@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.ftp_host }}
         username: ${{ secrets.ftp_usuario }}
         password: ${{ secrets.ftp_senha }}
-        server-dir: /public_html/marapet
+        server-dir: /public_html/marapet/
