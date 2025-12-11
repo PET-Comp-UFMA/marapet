@@ -51,7 +51,7 @@ require_once('header.php');
 
       <div class="container ">
         <div class="section-header">
-          <h1 class="black">TESTEEEEE 3</h1>
+          <h1 class="black">Sobre o Evento</h1>
         </div>
       </div>
       <div class="container text-center">
