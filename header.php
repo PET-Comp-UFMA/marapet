@@ -1,15 +1,15 @@
 <div class="wrapper">
     <div class="banner">
         <div>
-            <a href="#" target="_blank"><img src="img/logo-marapet.svg" alt="" class="img-fluid" id="logo-principal"
+            <a href="#" target="_blank"><img src="img/logo VImara.svg" alt="" class="img-fluid" id="logo-principal"
                     id="img-esq-1"></a>
         </div>
 
         <div class="main-text">
-            <h1 class="title-header">V MARAPET</h1>
+            <h1 class="title-header">VI MARAPET</h1>
 
             <p id="text-paragraph">
-                5º Edição do Encontro Maranhense dos Grupos PET em São Luís no Maranhão
+                6º Edição do Encontro Maranhense dos Grupos PET em São Luís no Maranhão
             </p>
         </div>
         

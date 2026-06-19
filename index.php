@@ -15,7 +15,7 @@ require_once('header.php');
             <div id="intro" class="carousel-item active">
                 <div class="slider-banner">
                     <div class="intro-container wow fadeIn">
-                        <h1>V MARAPET</h1>
+                        <h1>VI MARAPET</h1>
 
                         <!-- <h2 style="color: white;">Temática</h2> -->
                         
@@ -38,7 +38,7 @@ require_once('header.php');
                     <div class="col-lg-12">
                         <h2>Temática</h2>
                         <p>
-                          PET Maranhão: Ciência que se faz terra, gente e cultura.
+                          PET como agente transformador da formação universitária: ensino, pesquisa e extensão frente aos desafios contemporâneos
                         </p>
                     </div>
                 </center>
