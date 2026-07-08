@@ -6,7 +6,7 @@ require_once('header.php');
 <!--==========================
             Programação Geral
         ============================-->
-<!--
+
 <section id="schedule" class="section-with-bg">
     <div class="container wow fadeInUp">
         <div class="section-header">
@@ -15,7 +15,7 @@ require_once('header.php');
 
         <div class="tab-content row justify-content-center">
 
-        
+            <!-- Schdule Day 1 -->
             
             <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
                 <h2 class="schedule-day-title">Dia 1 - 17/11/2025</h2>
@@ -30,7 +30,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -49,25 +49,32 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
                         <h4>MESA REDONDA</h4>
-                       
+                        <!-- <p style="font-size: 20px;">
                             <b>
                                 Geotecnologias aplicadas à detecção de doenças e agravos transmissíveis
                             </b>
                         </p>
-
-                        
+                        <p style="font-size: 16px;">
+                            Palestrantes: Prof. Dr. José Aquino Junior
+                            <br>
+                            Doutor em Geografia - Docente - UFMA e
+                            <br>
+                            Prof. Dr. Ricardo Alexandre Arcêncio
+                            <br>
+                            Doutor em Ciências - Docente - EERP/USP
+                        </p> -->
                         <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
 
 
 
-                // TARDE 
+                <!-- TARDE -->
                 <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
@@ -76,7 +83,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -91,12 +98,12 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
                         <h4>MINICURSO</h4>
-              
+                        <!-- <p style="font-size: 20px;">Eixo 1 - Saúde e Sociedade</p> -->
                         <p style="font-size: 16px;">Local: Auditório 1, CCET</p>
                         <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
@@ -109,12 +116,12 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
                         <h4>MOMENTO CULTURAL</h4>
-                      
+                        <!-- <p style="font-size: 20px;">Eixo 1 - Saúde e Sociedade</p> -->
                         <p style="font-size: 16px;">Local: Àgora do CCH</p>
                     </div>
                     
@@ -122,7 +129,7 @@ require_once('header.php');
 
                 
 
-                // Dia 02 
+                <!-- Dia 02 -->
 
                 <h2 class="schedule-day-title">Dia 2 - 18/11/2025</h2>
                 <h4 class="schedule-day-title">Manhã</h4>
@@ -136,17 +143,23 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
                         <h4>APRESENTAÇÃO DE PROJETOS</h4>
-                     
+                        <!-- <p style="font-size: 20px;">
                             <b>
                                 Emprego de Multimétodos no desenvolvimento de aplicativos para a área da saúde
                             </b>
                         </p>
-                        
+                        <p style="font-size: 16px;">
+                            Palestrante: Me. Rafaela Cristina Araújo Gomes
+                            <br>
+                            Mestrado em Saúde e Tecnologia - UFMA
+                            <br>
+                            Doutoranda em Enfermagem e Biociências - UNIRIO
+                        </p> -->
                         <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
@@ -157,7 +170,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -169,7 +182,7 @@ require_once('header.php');
                 </div>
 
                 
-                // TARDE 
+                <!-- TARDE -->
                 <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
@@ -178,12 +191,12 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
                         <h4>GDT</h4>
-                      
+                        <!-- <p style="font-size: 20px;">Eixo 2 - Tecnologias em Saúde</p> -->
                         <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
                     </div>
                 </div>
@@ -193,7 +206,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -206,7 +219,7 @@ require_once('header.php');
                 </div>
                 
 
-                // Dia 03 
+                <!-- Dia 03 -->
 
                 <h2 class="schedule-day-title">Dia 3 - 19/11/2025</h2>
                 <h4 class="schedule-day-title">Manhã</h4>
@@ -220,7 +233,7 @@ require_once('header.php');
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -240,7 +253,7 @@ no coletivo</h4>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -251,7 +264,7 @@ universidade e territórios</h4>
                     </div>
                 </div>
                 
-                // TARDE 
+                <!-- TARDE -->
                 <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
@@ -263,7 +276,7 @@ universidade e territórios</h4>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -282,7 +295,7 @@ universidade e territórios</h4>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
-                            <img src="img/logo VImara.svg" alt="">
+                            <img src="../2025/img/2025/logo-semfundo.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -295,14 +308,7 @@ universidade e territórios</h4>
         </div>
     </div>
 </section>
--->
-<div class="section-header">
-    <h1 style="text-align: center;">PROGRAMAÇÃO</h1>
-</div>
 
-<div class="content">
-    <p style="text-align: center;">Em breve uma nova programação!</p>
-</div>
 <?php
 require_once('footer.php');
 require_once('html_footer.php');

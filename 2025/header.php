@@ -1,20 +1,20 @@
 <div class="wrapper">
     <div class="banner">
         <div>
-            <a href="#" target="_blank"><img src="img/logo VImara.svg" alt="" class="img-fluid" id="logo-principal"
+            <a href="#" target="_blank"><img src="../2025/img/2025/logo-icon.svg" alt="" class="img-fluid" id="logo-principal"
                     id="img-esq-1"></a>
         </div>
 
         <div class="main-text">
-            <h1 class="title-header">VI MARAPET</h1>
+            <h1 class="title-header">V MARAPET</h1>
 
             <p id="text-paragraph">
-                6º Edição do Encontro Maranhense dos Grupos PET em São Luís no Maranhão
+                5º Edição do Encontro Maranhense dos Grupos PET em São Luís no Maranhão
             </p>
         </div>
-
+        
         <div>
-            <a href="https://portalpadrao.ufma.br/site" target="_blank"><img src="img/supporters/logo-ufma.png" alt=""
+            <a href="https://portalpadrao.ufma.br/site" target="_blank"><img src="../img/supporters/logo-ufma.png" alt=""
                     class="img-fluid" id="img-dir"></a>
         </div>
     </div>
@@ -33,7 +33,7 @@
 
                             <!-- <div class="dropdown-divider"></div> -->
                             <a class="dropdown-item" href="submissao.php">Submissão de Projetos</a>
-
+                            
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="trabalhosaprovados.php">Projetos Aprovados</a>
                         </div>
@@ -63,7 +63,7 @@
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <!-- <div class="dropdown-divider"></div> -->
                             <a class="dropdown-item" href="anais.php">Anais</a>
-
+                            
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="certificados.php">Certificados</a>
                         </div>
@@ -73,19 +73,30 @@
 
                     <li><a href="registros.php">Registros</a></li>
 
-                    <li class="dropdown">
+                    <!-- <li class="dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
+                            role="button" aria-haspopup="true" aria-expanded="false">Informações</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="local.php">Local</a>
+                            
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="comissao.php">Comissões</a>
+                        </div>
+                    </li> -->
+                     <li class="dropdown">
                         <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown"
                             role="button" aria-haspopup="true" aria-expanded="false">Versões</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <!-- <div class="dropdown-divider"></div> -->
+                            <a class="dropdown-item" href="../index.php">2026</a>
                             
-                            <a class="dropdown-item" href="index.php">2026</a>
-
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="2025/index.php">2025</a>
+                            <a class="dropdown-item" href="index.php">2025</a>
                         </div>
                     </li>
                 </ul>
             </nav>
-
+            
         </div>
     </header>

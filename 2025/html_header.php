@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>VI MARAPET</title>
+    <title>V MARAPET</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Cnst" name="keywords">
     <meta content="PETCOMP-UFMA" name="author">
@@ -12,7 +12,7 @@
     <meta name="google-site-verification" content="Vq1j2NBJRrVdJnbfpVGku9UCJFm-OD1rTIO7XZ7i7Rs" />
 
     <!-- Favicons -->
-    <link rel="icon" type="image/svg+xml" href="img/logo VImara.svg">
+    <link rel="icon" type="image/svg+xml" href="../2025/img/2025/logo-icon.svg">
 
     <!-- Google Fonts -->
     <link
@@ -20,16 +20,16 @@
         rel="stylesheet">
 
     <!-- Bootstrap CSS File -->
-    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Libraries CSS Files -->
-    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
-    <link href="lib/venobox/venobox.css" rel="stylesheet">
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../lib/animate/animate.min.css" rel="stylesheet">
+    <link href="../lib/venobox/venobox.css" rel="stylesheet">
+    <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
     <!-- Main Stylesheet File -->
-    <link href="css/main.css" rel="stylesheet">
+    <link href="../2025/css/main.css" rel="stylesheet">
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
 </head>

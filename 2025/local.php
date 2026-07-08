@@ -3,7 +3,7 @@
 ?>
 
 <!-- Adiciona o CSS específico somente nesta página -->
-<link rel="stylesheet" href="css/anais.css">
+<link rel="stylesheet" href="../css/anais.css">
 
 <?php
   require_once('header.php');
@@ -14,12 +14,12 @@
   <div class="content">
 
     <h3 class="centered">PRESENCIAL</h3>
-    <p class="centered"><strong>Universidade Federal do Maranhão - Chapadinha</strong></p>
-    <p class="centered">Av. João Alberto, 700, Bambu, Bacabal – MA, CEP: 65.700-000</p>
+    <p class="centered"><strong>Universidade Federal do Maranhão - Campus Cidade Universitária</strong></p>
+    <p class="centered">Av. dos Portugueses, 1966, Bacanga - São Luís/MA.</p>
     <p>
       <i class="fa fa-map"></i>
       Endereço: 
-      <a href="https://maps.app.goo.gl/bRskrSLCXWETSjms8" target="_blank">Av. João Alberto, 700, Bambu, Bacabal – MA, CEP: 65.700-000</a>
+      <a href="https://maps.app.goo.gl/phwEK8RrGEUhVDwz8" target="_blank">Av. dos Portugueses, 1966, Bacanga - São Luís/MA.</a>
     </p>
     
 

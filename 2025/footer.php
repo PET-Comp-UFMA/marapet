@@ -30,7 +30,7 @@
 
     <div class="copyright">
 
-        <strong>VI MARAPET</strong>
+        <strong>V MARAPET - PETCOMP</strong>
 
     </div>
 
