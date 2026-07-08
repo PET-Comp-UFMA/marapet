@@ -3,7 +3,7 @@
 ?>
 
 <!-- Adiciona o CSS específico somente nesta página -->
-<link rel="stylesheet" href="css/anais.css">
+<link rel="stylesheet" href="../css/anais.css">
 
 <?php
   require_once('header.php');

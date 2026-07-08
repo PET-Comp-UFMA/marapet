@@ -3,7 +3,7 @@
 ?>
 
 <!-- Adiciona o CSS específico somente nesta página -->
-<link rel="stylesheet" href="css/anais.css">
+<link rel="stylesheet" href="../css/anais.css">
 
 <?php
   require_once('header.php');
@@ -16,12 +16,12 @@
 <div class="content">
   <h1>EDITAL</h1>
 
-  <p class="centered">Para fazer sua inscrição no evento, <a href="https://sigeventos.ufma.br/sigeventos/interno/menu_participante.xhtml"  target="_blank">clique aqui</a>.</p>
+  <p class="centered">Para fazer sua inscrição no evento, <a href="https://www.even3.com.br/5-encontro-maranhense-dos-grupos-de-educacao-tutorial-638637"  target="_blank">clique aqui</a>.</p>
 
   <h3 class="centered">PERÍODO DE INSCRIÇÃO</h3>
   <ul class="centered">
-    <li><strong>Abertura das inscrições:</strong> 03/06/2026</li>
-    <li><strong>Encerramento das inscrições:</strong> 10/07/2026</li>
+    <li><strong>Abertura das inscrições:</strong> 10/10/2025</li>
+    <li><strong>Encerramento das inscrições:</strong> 10/11/2025</li>
   </ul>
 
   <!-- <h3 class="centered">VALORES DE INSCRIÇÃO</h3>
@@ -64,7 +64,7 @@
     <li>Boleto Bancário</li>
   </ul> -->
 
-  <p class="centered">Dúvidas podem ser enviadas para <a href="mailto:marapet@ufma.br">marapet@ufma.br</a></p>
+  <p class="centered">Dúvidas podem ser enviadas para <a href="mailto:eventos.ppgst@ufma.br">petcomputacao.ufmaa@gmail.com</a></p>
 </div>
 
 <?php 

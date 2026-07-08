@@ -6,7 +6,7 @@
   <title>Chamada de Trabalhos Científicos</title>
   
   <!-- Link para o arquivo CSS -->
-  <link rel="stylesheet" href="css/monitoria.css"> <!-- Substitua pelo seu caminho -->
+  <link rel="stylesheet" href="css/anais.css"> <!-- Substitua pelo seu caminho -->
 </head>
 <body>
 
@@ -22,16 +22,16 @@
 <div class="content">
   <h1>EDITAL</h1>
 
-  <p class="centered">Para submeter seu projeto no evento, <a href="https://www.even3.com.br/5-encontro-maranhense-dos-grupos-de-educacao-tutorial-638637"  target="_blank">clique aqui</a>.</p>
+  <p class="centered">Para submeter seu projeto no evento, <a href="https://sigeventos.ufma.br/sigeventos/interno/menu_participante.xhtml"  target="_blank">clique aqui</a>.</p>
 
-  <h3 class="centered">PERÍODO DE INSCRIÇÃO</h3>
+  <h3 class="centered">PERÍODO DE SUBMISSÃO</h3>
   <ul class="centered">
-    <li><strong>Abertura das submissões:</strong> 10/10/2025</li>
-    <li><strong>Encerramento das submissões:</strong> 20/10/2025</li>
+    <li><strong>Abertura das submissões:</strong> 03/06/2026</li>
+    <li><strong>Encerramento das submissões:</strong> 10/07/2026</li>
   </ul>
 
 
-  <p class="centered">Dúvidas podem ser enviadas para <a href="mailto:eventos.ppgst@ufma.br">petcomputacao.ufma@gmail.com</a></p>
+ <p class="centered">Dúvidas podem ser enviadas para <a href="mailto:marapet@ufma.br">marapet@ufma.br</a></p>
 </div>
 
 <?php 

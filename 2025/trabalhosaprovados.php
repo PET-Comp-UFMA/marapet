@@ -6,7 +6,7 @@
   <title>Trabalhos Aprovados - V MARAPET</title>
   
   <!-- Link para o arquivo CSS -->
-  <link rel="stylesheet" href="css/anais.css"> <!-- Substitua pelo seu caminho -->
+  <link rel="stylesheet" href="../css/anais.css"> <!-- Substitua pelo seu caminho -->
 </head>
 <body>
 

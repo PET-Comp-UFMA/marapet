@@ -659,7 +659,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro-2 {
   width: 100%;
   height: 100vh;
-  background: url(../2025/img/2025/banner.svg) top center;
+  background: url(../img/2025/banner.svg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -816,7 +816,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(../img/banner_VImara.svg)top center;
+  background: url(../img/2025/banner.svg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -1028,7 +1028,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #about {
-  background: url(../2025/img/imagem_fundo_sobre2.jpg);
+  background: url("../img/imagem_fundo_sobre2.jpg");
   background-size: cover;
   overflow: hidden;
   position: relative;
