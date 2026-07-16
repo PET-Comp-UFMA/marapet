@@ -6,7 +6,7 @@ require_once('header.php');
 <!--==========================
             Programação Geral
         ============================-->
-<!--
+
 <section id="schedule" class="section-with-bg">
     <div class="container wow fadeInUp">
         <div class="section-header">
@@ -15,11 +15,66 @@ require_once('header.php');
 
         <div class="tab-content row justify-content-center">
 
-        
-            
+
+
             <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
-                <h2 class="schedule-day-title">Dia 1 - 17/11/2025</h2>
+                <h2 class="schedule-day-title">Dia 1 - 27/08/2026</h2>
                 <h4 class="schedule-day-title">Manhã</h4>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            07:00 - 08:00
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Café da Manhã</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            08:00 - 09:00
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Credenciamento</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            09:00 - 10:00
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Mesa de Abertura</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+                </div>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content" style="text-align: center;">
@@ -34,17 +89,16 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>MESA DE ABERTURA</h4>
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Mesa Redonda</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
-                    
                 </div>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            11:00 - 12:30
+                            11:00 - 12:00
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -53,21 +107,14 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>MESA REDONDA</h4>
-                       
-                            <b>
-                                Geotecnologias aplicadas à detecção de doenças e agravos transmissíveis
-                            </b>
-                        </p>
-
-                        
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Perguntas e Sugestões para o GDT</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
                 </div>
 
 
 
-                // TARDE 
+
                 <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
@@ -80,14 +127,14 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>ENCONTRO DISCENTES / TUTORES</h4>
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>1° Palestra</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
                 </div>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>15:10-16:00</time>
+                        <time>15:00-16:00</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -95,17 +142,16 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>MINICURSO</h4>
-              
-                        <p style="font-size: 16px;">Local: Auditório 1, CCET</p>
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Perguntas e Sugestões para o GDT</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
-                    
+
                 </div>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>17:30-18:30</time>
+                        <time>16:00-16:30</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -113,47 +159,76 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>MOMENTO CULTURAL</h4>
-                      
-                        <p style="font-size: 16px;">Local: Àgora do CCH</p>
+                        <h4>Coffe Break</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
-                    
+
                 </div>
 
-                
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>16:30-17:00</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Encontro de Tutores e Encontro de Petianos</h4>
 
-                // Dia 02 
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
 
-                <h2 class="schedule-day-title">Dia 2 - 18/11/2025</h2>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>17:00-18:30</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Momento Cultural</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+
+                </div>
+
+
+
+
+                <h2 class="schedule-day-title">Dia 2 - 28/08/2026</h2>
                 <h4 class="schedule-day-title">Manhã</h4>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            09:00 - 10:00
+                            07:00 - 08:00
                         </time>
                     </div>
+
                     <div class="col-md-3 center-content">
                         <div class="speaker">
                             <img src="img/logo VImara.svg" alt="">
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>APRESENTAÇÃO DE PROJETOS</h4>
-                     
-                            <b>
-                                Emprego de Multimétodos no desenvolvimento de aplicativos para a área da saúde
-                            </b>
-                        </p>
-                        
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Café da Manhã</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
+
                 </div>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>10:00-12:00</time>
+                        <time>08:00-10:00</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -161,15 +236,49 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>GDTs</h4>
-                        
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Apresentação de Trabalhos</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
-                    
+
                 </div>
 
-                
-                // TARDE 
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>10:00-11:00</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>2° Palestra</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>11:00-12:00</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Perguntas e Sugestões para o GDT</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+
+                </div>
+
+
+
                 <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
@@ -182,14 +291,15 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>GDT</h4>
-                      
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>GDT - 1</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
                 </div>
+
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content"><br>
-                        <time>15:00-17:30</time>
+                        <time>15:00-16:00</time>
                     </div>
                     <div class="col-md-3 center-content">
                         <div class="speaker">
@@ -197,25 +307,70 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>MINICURSO</h4>
-                        
-                        <p style="font-size: 16px;">Local: Auditório 1, CCET</p>
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>GDT - 2</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
-                    
                 </div>
-                
 
-                // Dia 03 
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>16:00-16:30</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Coffe Break</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
 
-                <h2 class="schedule-day-title">Dia 3 - 19/11/2025</h2>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>16:30-17:00</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>GDT - 3</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content"><br>
+                        <time>17:00-18:30</time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Momento de Integração</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+                </div>
+
+
+
+                <h2 class="schedule-day-title">Dia 3 - 29/08/2026</h2>
                 <h4 class="schedule-day-title">Manhã</h4>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            09:00 - 10:00
+                            07:00 - 08:00
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -224,10 +379,28 @@ require_once('header.php');
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>PALESTRA: Formação integral no PET: aprendizados que florescem 
-no coletivo</h4>
-                        
-                       <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Café da Manhã</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            08:00 - 09:00
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Minicursos</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
                 </div>
 
@@ -235,7 +408,7 @@ no coletivo</h4>
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            10:30 - 12:00
+                            10:00 - 12:00
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -244,21 +417,20 @@ no coletivo</h4>
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>PALESTRA: Cultura e memória: ex-petianos como pontes entre a 
-universidade e territórios</h4>
-                        
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Oficinas</h4>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
                 </div>
-                
-                // TARDE 
+
+            
                 <h4 class="schedule-day-title">Tarde</h4>
 
                 <div class="row schedule-item">
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            14:00 - 17:00
+                            14:00 - 16:00
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -268,8 +440,8 @@ universidade e territórios</h4>
                     </div>
                     <div class="col-md-7">
                         <h4>ASSEMBLEIA</h4>
-                        
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
                 </div>
 
@@ -277,7 +449,7 @@ universidade e territórios</h4>
                     <div class="col-md-2 center-content" style="text-align: center;">
                         <br>
                         <time>
-                            17:00 - 18:00
+                            16:00 - 16:30
                         </time>
                     </div>
                     <div class="col-md-3 center-content">
@@ -286,8 +458,44 @@ universidade e territórios</h4>
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h4>ENCERRAMENTO</h4>
-                        <p style="font-size: 16px;">Local: Auditório Pós Graduação, CCET</p>
+                        <h4>Coffe Break</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            16:30 - 17:00
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Bingo</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
+                    </div>
+                </div>
+
+                <div class="row schedule-item">
+                    <div class="col-md-2 center-content" style="text-align: center;">
+                        <br>
+                        <time>
+                            17:00 - 18:30
+                        </time>
+                    </div>
+                    <div class="col-md-3 center-content">
+                        <div class="speaker">
+                            <img src="img/logo VImara.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h4>Encerramento Oficial</h4>
+                        <p style="font-size: 16px;">Local: A definir</p>
                     </div>
                 </div>
 
@@ -295,14 +503,8 @@ universidade e territórios</h4>
         </div>
     </div>
 </section>
--->
-<div class="section-header">
-    <h1 style="text-align: center;">PROGRAMAÇÃO</h1>
-</div>
 
-<div class="content">
-    <p style="text-align: center;">Em breve uma nova programação!</p>
-</div>
+
 <?php
 require_once('footer.php');
 require_once('html_footer.php');
